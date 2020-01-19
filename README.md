@@ -2,5 +2,6 @@
 > 참고 : [codeit ; Python으로 배우는 알고리즘의 정석](https://www.codeit.kr/courses/8/assignments)
 
 ### Chapter1 : 알고리즘의 정석    
-1.    
-2. [팔린드롬](/code/chapter1/팔린드롬.py)    
+- [알고리즘이란?](https://blog.naver.com/chlwldk1998)            
+- [팔린드롬](https://blog.naver.com/PostView.nhn?blogId=chlwldk1998&logNo=221777464586&parentCategoryNo=&categoryNo=27&viewDate=&isShowPopularPosts=false&from=postList)[코드](/code/chapter1/팔린드롬.py)    
+   
