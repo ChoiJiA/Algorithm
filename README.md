@@ -7,5 +7,5 @@
    
 ### Chapter2 : 하나의 문제, 여러 가지 알고리즘    
 - [선형 탐색과 이진 탐색](https://blog.naver.com/PostView.nhn?blogId=chlwldk1998&logNo=221778706721&parentCategoryNo=&categoryNo=27&viewDate=&isShowPopularPosts=false&from=postView)    
-- [선형 탐색 알고리즘 문제](/code/chapter2/선형 탐색 문제.py)    
+- [선형 탐색 알고리즘 문제](/code/chapter1/선형 탐색 문제.py)    
 
